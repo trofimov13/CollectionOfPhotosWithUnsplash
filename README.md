@@ -24,3 +24,5 @@ Code layout, RealmSwift, URLSession, MVC
 4. Используйте как минимум одну стороннюю библиотеку Cocoa Pods(кроме Unsplash Photo Picker for iOS и прочие подобные для работы с Unsplash) 
 5. Должен быть как минимум один алерт
 6. На задачу должно уйти до 16 часов (2 рабочих дня)
+
+![Kapture 2022-06-22 at 17 48 55](https://user-images.githubusercontent.com/81037313/175060491-a0630341-4005-4054-a7cd-2e9cd47439e7.gif)
