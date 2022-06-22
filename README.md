@@ -1,6 +1,6 @@
 # CollectionOfPhotosWithUnsplash
-Code layout
-Realm
-URLSession
-MVC
+Code layout 
+Realm 
+URLSession 
+MVC 
 https://unsplash.com/developers
